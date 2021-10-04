@@ -8,17 +8,12 @@
   <h3 align="center">Cafe Website</h3>
 
   <p align="center">
-    A simple forum website with Like functionality
+    A typical cafe website with animations built with React
     <br />
     <a href="https://github.com/skim33/Cafe-Website"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://shawn-kim-cafe-website.netlify.app/">View Demo</a>
-    <br />
-    <div align="center">Please logn with the guest email address and password shown below:</div>
-    <br />
-    <div align="center">Email: guest@guest.com</div>
-    <div align="center">Password: 123123</div>
     <br />
   </p>
 </p>
@@ -42,16 +37,16 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://shawn-kim-portfolio.web.app/messaging)
+[![Product Name Screen Shot][product-screenshot]](https://shawn-kim-cafe-website.netlify.app/)
 
-One of the most used features of SNS used nowadays is realtime interaction between users. This social networking web app is built with the React Framework for frontend, and Firebase backend services, which allows users to add posts on the feed with "Like" functionality.
+This typical cafe website is completely responsive and focuses on modern cafe website design with styled-comoponents. This project was to practice and learn how to build animations using GSAP in React. React hooks and React Scroll were also used to create thisi web design.
 
 ### Built With
 
 - [React](https://reactjs.org/) (Frontend)
-- [Redux](https://redux.js.org/) (State Management)
-- [Firebase](https://firebase.google.com/) (Backend / Host)
-- [Material UI](https://mui.com/)
+- [styled-components](https://styled-components.com/) (Framework)
+- [GSAP](https://greensock.com/gsap/) (GreenSock Animation Platform)
+- [Netlify](https://www.netlify.com/) (Host)
 
 <!-- GETTING STARTED -->
 
@@ -103,4 +98,4 @@ Project Link: [https://github.com/skim33/Cafe-Website](https://github.com/skim33
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[product-screenshot]: src/assets/screen_shot.png
+[product-screenshot]: src/images/screen_shot.png
