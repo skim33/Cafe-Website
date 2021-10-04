@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/skim33/Cafe-Website">
-    <img src="src/assets/logo_login.png" alt="Logo" width="100" height="auto">
+    <img src="src/images/logo.jpg" alt="Logo" width="100" height="auto">
   </a>
 
   <h3 align="center">Cafe Website</h3>
